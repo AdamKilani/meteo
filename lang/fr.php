@@ -1,0 +1,33 @@
+// lang/fr.php
+<?php
+$lang = [
+    'page_title' => 'Météo Minimaliste',
+    'site_name' => 'Météo Minimaliste',
+    'current_weather' => 'Météo Actuelle',
+    'search_location' => 'Rechercher un lieu',
+    'search_placeholder' => 'Entrez un nom de ville...',
+    'search_button' => 'Rechercher',
+    'search_prompt' => 'Recherchez une ville pour voir la météo',
+    'favorites' => 'Mes Favoris',
+    'no_favorites' => 'Aucun favori pour le moment',
+    'add_favorite' => 'Ajouter un favori',
+    'location' => 'Lieu',
+    'notes' => 'Notes',
+    'add' => 'Ajouter',
+    'view' => 'Voir',
+    'delete' => 'Supprimer',
+    'favorite_added' => 'Favori ajouté avec succès',
+    'favorite_deleted' => 'Favori supprimé avec succès',
+    'error_no_location' => 'Veuillez entrer un lieu',
+    'error_adding_favorite' => 'Erreur lors de l\'ajout du favori',
+    'error_deleting_favorite' => 'Erreur lors de la suppression du favori',
+    'error_empty_location' => 'Le lieu ne peut pas être vide',
+    'temperature' => 'Température',
+    'humidity' => 'Humidité',
+    'wind_speed' => 'Vitesse du vent',
+    'weather_type' => 'Condition',
+    'footer_text' => 'Site Météo Minimaliste',
+    'validation_error' => 'Veuillez remplir tous les champs obligatoires',
+    'error_csrf' => 'Jeton de sécurité invalide',
+    'error_invalid_id' => 'Identifiant de favori invalide'
+];

@@ -1,0 +1,33 @@
+// lang/en.php
+<?php
+$lang = [
+    'page_title' => 'Minimalist Weather',
+    'site_name' => 'Minimalist Weather',
+    'current_weather' => 'Current Weather',
+    'search_location' => 'Search Location',
+    'search_placeholder' => 'Enter a city name...',
+    'search_button' => 'Search',
+    'search_prompt' => 'Search for a city to see the weather',
+    'favorites' => 'My Favorites',
+    'no_favorites' => 'No favorites yet',
+    'add_favorite' => 'Add a favorite',
+    'location' => 'Location',
+    'notes' => 'Notes',
+    'add' => 'Add',
+    'view' => 'View',
+    'delete' => 'Delete',
+    'favorite_added' => 'Favorite added successfully',
+    'favorite_deleted' => 'Favorite deleted successfully',
+    'error_no_location' => 'Please enter a location',
+    'error_adding_favorite' => 'Error adding favorite',
+    'error_deleting_favorite' => 'Error deleting favorite',
+    'error_empty_location' => 'Location cannot be empty',
+    'temperature' => 'Temperature',
+    'humidity' => 'Humidity',
+    'wind_speed' => 'Wind Speed',
+    'weather_type' => 'Condition',
+    'footer_text' => 'Minimalist Weather Site',
+    'validation_error' => 'Please fill in all required fields',
+    'error_csrf' => 'Invalid security token',
+    'error_invalid_id' => 'Invalid favorite ID'
+];
